@@ -1,0 +1,144 @@
+{
+	"TargetList": [
+		{
+			"Name": "Lab Content Creation",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 3.08,
+				"y": 0.00,
+				"z": 1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Library",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 53.19,
+				"y": 0.00,
+				"z": 20.74
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Admission",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 64.19,
+				"y": 0.00,
+				"z": 20.74
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lift",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 58.6,
+				"y": 0.00,
+				"z": 10
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Entrance",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.50,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Toilet",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 84.74,
+				"y": 0.00,
+				"z": 8.06
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "SDC",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 81.91,
+				"y": 0.00,
+				"z": 12.42
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Aula",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 105.89,
+				"y": 0.00,
+				"z": 0.78
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab Fotografi",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 114.04,
+				"y": 0.00,
+				"z": 0.78
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Kopi Sadean",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 117.6,
+				"y": 0.00,
+				"z": 0.0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
